@@ -1,4 +1,4 @@
-# Roku Tomatoes App
+# Roku Sample App
 
 Example Roku App
 
